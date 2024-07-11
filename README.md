@@ -1,0 +1,1 @@
+# Guia-Rapido-de-TypeScriptGuia-Rapido-de-JavaScript
